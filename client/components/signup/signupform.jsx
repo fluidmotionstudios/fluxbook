@@ -14,9 +14,8 @@ Signupform = React.createClass({
 	displayError(message){
 		this.setState({message: message, messageClass: 'alert alert-danger registerError'});
 	},
-	handleSubmit(event){
-		event.preventDefault();
-		return false;
+	handleSubmit(e){
+		e.preventDefault();
 		this.setState({message:'',messageClass:'hidden'});
 		var that = this;
 		var first_name = ReactDOM.findDOMNode(this.refs.first_name).value.trim();
@@ -24,12 +23,13 @@ Signupform = React.createClass({
 		var email = ReactDOM.findDOMNode(this.refs.email).value.trim();
 		var password = ReactDOM.findDOMNode(this.refs.password).value.trim();
 		var user = {email:email,password:password,profile:{fullname:(first_name + last_name).toLowerCase(),firsname:first_name,lastname:last_name,avatar:'http://placehold.it/150x150',friends:[]}};
-		Accounts.createUser(user,function(event){
-			FlowRouter.go('/dashboard');
-			if(error){
-				that.displayError(e.reason);
-			}
-		})
+		Accounts.createUser(user,function(e){
+			if (e) {
+      	Materialize.toast('There was an error creating your account', 5000)
+      } else {
+        FlowRouter.go('/dashboard');
+      }
+    })
 	},
 	render(){
 		return (
@@ -44,20 +44,20 @@ Signupform = React.createClass({
 
 						<div className="input-field col s6">
 							<input name="first_name" type="text" ref="first_name" className="validate"/>
-							<label for="first_name">First Name</label>
+							<label htmlFor="first_name">First Name</label>
 						</div>
 						<div className="input-field col s6">
 							<input name="last_name" type="text" ref="last_name" className="validate"/>
-							<label for="last_name">Last Name</label>
+							<label htmlFor="last_name">Last Name</label>
 						</div>
 
 					<div className="input-field col s12">
 						<input name="email" type="email" ref="email" className="validate"/>
-						<label for="email">Email</label>
+						<label htmlFor="email">Email</label>
 					</div>
 					<div className="input-field col s12">
 						<input name="password" type="password" ref="password" className="validate"/>
-						<label for="password">Password</label>
+						<label htmlFor="password">Password</label>
 					</div>
 					<div className="col s12">
 						<button className="btn waves-effect waves-light indigo darken-3" type="submit">

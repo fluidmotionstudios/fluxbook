@@ -18,14 +18,11 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.cordova/accounts_client.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.cordova/url_client.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react/0.14.3/web.cordova/react.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.4/web.cordova/meteor-data-mixin.jsx" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime/0.14.4/web.cordova/react-runtime.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/react.browserify.options.json" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/attach-require.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/detect-shims.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/react.browserify.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/shams.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/react.browserify.options.json" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/attach-require.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/react.browserify.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/shams.js" />
@@ -81,7 +78,6 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.cordova/pre.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.cordova/post.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.cordova/fastclick.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fortawesome_fontawesome/4.5.0/web.cordova/upstream/css/font-awesome.css" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.cordova/geojson-utils.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.cordova/pre.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.cordova/post.js" />
@@ -127,8 +123,6 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.cordova/min-heap.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.cordova/min-max-heap.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/web.cordova/base64.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/materialize_materialize/0.97.5/web.cordova/dist/js/materialize.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/materialize_materialize/0.97.5/web.cordova/dist/css/materialize.css" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/web.cordova/babel-runtime.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.cordova/livedata_connection.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.cordova/stream_client_common.js" />
@@ -164,14 +158,11 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.cordova/accounts_client.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.cordova/url_client.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react/0.14.3/web.cordova/react.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.4/web.cordova/meteor-data-mixin.jsx" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime/0.14.4/web.cordova/react-runtime.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/react.browserify.options.json" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/attach-require.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/detect-shims.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/react.browserify.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/web.cordova/shams.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/react.browserify.options.json" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/attach-require.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/react.browserify.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/web.cordova/shams.js" />
@@ -227,7 +218,6 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.cordova/pre.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.cordova/post.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.cordova/fastclick.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fortawesome_fontawesome/4.5.0/web.cordova/upstream/css/font-awesome.css" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.cordova/geojson-utils.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.cordova/pre.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.cordova/post.js" />
@@ -273,8 +263,6 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.cordova/min-heap.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.cordova/min-max-heap.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/web.cordova/base64.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/materialize_materialize/0.97.5/web.cordova/dist/js/materialize.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/materialize_materialize/0.97.5/web.cordova/dist/css/materialize.css" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/web.cordova/babel-runtime.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.cordova/livedata_connection.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.cordova/stream_client_common.js" />

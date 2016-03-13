@@ -15,6 +15,7 @@ Homelayout = React.createClass({
 						</div>
 					</div>
 				</main>
+				<div id="toast-container"></div>
 			</div>
 		)
 	}

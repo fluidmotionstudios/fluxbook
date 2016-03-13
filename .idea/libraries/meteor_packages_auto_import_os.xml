@@ -16,7 +16,6 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/post.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/os/react.browserify.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/os/attach-require.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/os/react.browserify.options.json" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/scanner.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/os/shams.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/templatetag.js" />
@@ -26,12 +25,10 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/utils.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/os/attach-require.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/charref.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/os/react.browserify.options.json" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/parse.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime/0.14.4/os/react-runtime.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/html.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/visitors.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.4/os/meteor-data-mixin.jsx" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/preamble.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/react/0.14.3/os/react.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/deprecated.js" />
@@ -91,7 +88,6 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tokens.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tojs.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/preamble.js" />
-        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.0.4/os/boilerplate-generator.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/multi-file-caching-compiler.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars/1.0.7/os/spacebars-runtime.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/caching-compiler.js" />
@@ -155,7 +151,6 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/post.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/os/react.browserify.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/os/attach-require.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-prod/0.14.4/os/react.browserify.options.json" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/scanner.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/os/shams.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/templatetag.js" />
@@ -165,12 +160,10 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/utils.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/os/attach-require.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/charref.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime-dev/0.14.4/os/react.browserify.options.json" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/parse.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-runtime/0.14.4/os/react-runtime.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/html.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/visitors.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react-meteor-data/0.2.4/os/meteor-data-mixin.jsx" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/preamble.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/react/0.14.3/os/react.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/deprecated.js" />
@@ -230,7 +223,6 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tokens.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tojs.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/preamble.js" />
-      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.0.4/os/boilerplate-generator.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/multi-file-caching-compiler.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars/1.0.7/os/spacebars-runtime.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/caching-compiler.js" />

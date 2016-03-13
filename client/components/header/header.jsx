@@ -4,6 +4,7 @@ Header = React.createClass({
 	},
 	render(){
 		return (
+			<div className="navbar-fixed">
 			<nav>
 				<div className="nav-wrapper indigo darken-3">
 					<a href="#!" className="brand-logo">FLUX<span className="light">Book</span></a>
@@ -37,6 +38,7 @@ Header = React.createClass({
 					</ul>
 				</div>
 			</nav>
+			</div>
 		)
 	}
 });
