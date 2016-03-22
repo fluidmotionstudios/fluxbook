@@ -1,15 +1,13 @@
 Main = React.createClass({
 	render(){
 		return (
-			<div className="col-sm-9 col-sm-11" id="main">
+			<div className="col s6 m8 l10" id="main">
 				<div>
-					<div className="full-col-sm-9">
-						<div className="row">
-							<div className="col-sm-9">
-								Status Form
-								Posts
-								<button className="btn-md btn-raised btn-info">More</button>
-							</div>
+					<div className="row">
+						<div>
+							Status Form
+							Posts
+							<a className="waves-effect waves-light btn indigo darken-3">More</a>
 						</div>
 					</div>
 				</div>

@@ -25,7 +25,7 @@ Signupform = React.createClass({
 		var user = {email:email,password:password,profile:{fullname:(first_name + last_name).toLowerCase(),firsname:first_name,lastname:last_name,avatar:'http://placehold.it/150x150',friends:[]}};
 		Accounts.createUser(user,function(e){
 			if (e) {
-      	Materialize.toast('There was an error creating your account', 5000)
+      	Materialize.toast(e.reason, 5000);
       } else {
         FlowRouter.go('/dashboard');
       }
