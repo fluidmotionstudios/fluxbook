@@ -3,7 +3,21 @@ Navbar = React.createClass({
 		$(".dropdown-button").dropdown();
 		$(".button-collapse").sideNav();
 	},
+	links: [
+		{_id:1,href:'/profile',icon:'fa fa-user fa-2x',text:'Profile'},
+		{_id:2,href:'/dashboard',icon:'fa fa-rss fa-2x',text:'News Feed'},
+		{_id:3,href:'/messages',icon:'fa fa-comment fa-2x',text:'Messages'},
+		{_id:4,href:'/friends',icon:'fa fa-users fa-2x',text:'Friends'}
+	],
 	render(){
+		var rows = this.links.map(function(link){
+			return (
+				<li key={link._id}>
+					<a className="waves-effect waves-light" href={link.href}><i className={link.icon}></i> {link.text}</a>
+				</li>
+			)
+
+		});
 		return (
 			<div className="navbar-fixed">
 				<nav>
@@ -35,10 +49,7 @@ Navbar = React.createClass({
 						</ul>
 
 						<ul className="side-nav fixed" id="mobile-demo">
-							<li><a href="sass.html">Sass</a></li>
-							<li><a href="badges.html">Components</a></li>
-							<li><a href="collapsible.html">Javascript</a></li>
-							<li><a href="mobile.html">Mobile</a></li>
+							{rows}
 						</ul>
 					</div>
 				</nav>

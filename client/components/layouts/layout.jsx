@@ -7,10 +7,7 @@ Layout = React.createClass({
 				</header>
 				<main>
 					<div className="row">
-						<div className="col s2 m4 l3">
-							{this.props.sidebar}
-						</div>
-						<div className="col s10 m8 l9">
+						<div className="col s10 m8 l9 push-s3 push-m4 push-l3">
 							{this.props.content}
 						</div>
 					</div>
