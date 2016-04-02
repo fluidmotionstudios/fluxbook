@@ -5,7 +5,7 @@ Main = React.createClass({
 				<div>
 					<div className="row">
 						<div>
-							Status Form
+							<Statusform/>
 							Posts
 							<a className="waves-effect waves-light btn indigo darken-3">More</a>
 						</div>

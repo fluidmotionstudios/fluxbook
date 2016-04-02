@@ -24,7 +24,7 @@ Navbar = React.createClass({
 					<div className="nav-wrapper indigo darken-3">
 						<a href="/" className="brand-logo left">FLUX<span className="light">Book</span></a>
 						<ul className="feed-link">
-							<li><a href="/dashboard" className=""><i className="fa fa-feed">Home</i></a></li>
+							<li><a href="/dashboard" className=""><i className="fa fa-feed"> Home</i></a></li>
 						</ul>
 						<a href="#" data-activates="mobile-demo" className="right button-collapse"><i className="mdi-navigation-more-vert"></i></a>
 						<ul id="dropdown1" className="dropdown-content">
